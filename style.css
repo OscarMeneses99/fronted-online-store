@@ -303,6 +303,7 @@
     padding-bottom: 24px;
     position: absolute;
     right: 0;
+    background: var(--white);
   }
   .product-detail-close-secundary {
     background: var(--white);
